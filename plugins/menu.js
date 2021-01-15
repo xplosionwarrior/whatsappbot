@@ -32,7 +32,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%week/g, week)
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
-🤖[WhatsApp Bot ]🤖
+🤖[ WhatsApp Bot ]🤖
 Creator: Xplosionwarrior 
 
 Hi, ${name} 👋
