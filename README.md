@@ -1,5 +1,5 @@
 # WhatsApp Bot
-Simple WhatsApp Bot
+Powerfull WhatsApp Bot
 
 ### FOR TERMUX USER
 ```bash
