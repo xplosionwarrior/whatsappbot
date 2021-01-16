@@ -31,6 +31,10 @@ Powerfull WhatsApp Bot
 ```
  SOSMED:
  
- Instagram: xplosionwarrior
+ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: 𝗫𝗽𝗹𝗼𝘀𝗶𝗼𝗻𝘄𝗮𝗿𝗿𝗶𝗼𝗿
  
- Youtube: Xplosionwarrior
+ 𝐘𝐨𝐮𝐓𝐮𝐛𝐞: 𝗫𝗽𝗹𝗼𝘀𝗶𝗼𝗻𝘄𝗮𝗿𝗿𝗶𝗼𝗿
+ 
+ 𝐓𝐰𝐢𝐭𝐭𝐞𝐫: 𝗫𝗽𝗹𝗼𝘀𝗶𝗼𝗻𝘄𝗮𝗿𝗿𝗶𝗼𝗿
+ 
+ 𝐅𝐚𝐜𝐞𝐁𝐨𝐨𝐤: 𝗫𝗽𝗹𝗼𝘀𝗶𝗼𝗻𝘄𝗮𝗿𝗿𝗶𝗼𝗿
