@@ -32,8 +32,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%week/g, week)
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
-🤖[ WhatsApp Bot ]🤖
-Creator: Xplosionwarrior 
+🤖[ 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐓 ]🤖
+Creator: Xᴘʟᴏsɪᴏɴᴡᴀʀʀɪᴏʀ
 
 Hi, ${name} 👋
 Exp: ${exp}
@@ -99,18 +99,21 @@ How to Add XP:
 ╠➥ ${_p}mutechat group
 ║
 ╠═〘 ADVERTISEMENT 〙 ═
-╠➥ Instagram: https://instagram.com/xplosionwarrior
+╠➥ Iɴsᴛᴀɢʀᴀᴍ: https://instagram.com/xplosionwarrior
 ╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/channel/UCJE4CBun_b2ksD6UQX_PYiw
+╠➥ FᴀᴄᴇBᴏᴏᴋ: https://facebook.com/xplosionwarrior
+╠➥ Tᴡɪᴛᴛᴇʀ: https://twitter.com/xplosionwarrior
+╠➥ GɪᴛHᴜʙ: https://github.com/xplosionwarrior
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : *WhatsApp Bot*
+╠➥ Name : *𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐓*
 ╠➥ Coded using * Nano * on Android \\ w Termux
 ╠➥ Request? wa.me//+91 95676 58937
 ╠═════
 ║ Advanced:
 ║  > return m
 ║
-╠═ 《 *WhatsApp BoT* 》═
+╠═ 《 *𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐓* 》═
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }
