@@ -108,7 +108,7 @@ How to Add XP:
 ╠═〘 Info Bot 〙 ═
 ╠➥ Name : *𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐓*
 ╠➥ Coded using * Nano * on Android \\ w Termux
-╠➥ Request? wa.me//+91 95676 58937
+╠➥ Request? wa.me/+91 95676 58937
 ╠═════
 ║ Advanced:
 ║  > return m
