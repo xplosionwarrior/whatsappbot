@@ -1,27 +1,26 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
-Tutorial Buat Bot WA:
-Credit: *~mr.ravanan*
+Tutorial Bot WA:
+Credit: *~xᴘʟᴏsɪᴏɴᴡᴀʀʀɪᴏʀ*
 
-Ketik di *[TERMUX]*
+Usage:- *[TERMUX]*
 1) $pkg install git
 2) $pkg install ffmpeg
 3) $pkg install imagemagick
 4) $pkg install nodejs
 
 
-5) $git clone https://github.com/mrravanan/kannapi-bot.git
+5) $git clone https://github.com/xplosionwarrior/whatsappbot.git
 6) $ls
-7) $cd kannapi-bot
+7) $cd whatsappbot
 
 the * last * ..
-Cuy installation :)
+installation :)
 8) npm i
 9) node index.js
 
-_You can see the tutorial at_
-*Our Youtube:*
-https://youtube.com/c/MrRavanan
+*Our Youtube channel *sᴜʙsᴄʀɪʙᴇ💟:*
+https://youtube.com/channel/UCJE4CBun_b2ksD6UQX_PYiw
 `.trim(), m)
 }
 handler.command = /^(tutorial)$/i
