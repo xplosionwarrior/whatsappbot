@@ -16,7 +16,7 @@ Usage:- *[TERMUX]*
 
 the * last * ..
 installation :)
-8) npm i
+8) npm install
 9) node index.js
 
 *Our Youtube channel *sᴜʙsᴄʀɪʙᴇ💟:*
