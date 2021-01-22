@@ -21,6 +21,9 @@ https://www.mediafire.com/download/9p8wsnwupnq0lun
 • KineMaster Ruby (MOD)
 https://www.mediafire.com/download/6b2wa08cmtsr8x8
 
+• Netfilx (MOD)
+https://www.mediafire.com/file/x8t8oni1h9r8nna/Netflix_Mod.apk/file
+
 • Adobe Photoshop (Original)
 https://www.mediafire.com/download/whfh12tj4zjpedp
 
