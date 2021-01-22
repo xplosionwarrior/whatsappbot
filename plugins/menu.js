@@ -87,8 +87,6 @@ How to Add XP:
 ║
 ╠═〘 INFO 〙 ═
 ╠➥ ${_p}info
-
-
 ║
 ╠═〘 OWNER 〙 ═
 ╠➥ ${_p}bcgc <teks>
