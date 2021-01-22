@@ -12,9 +12,9 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠═〘 *𝐖𝐀 𝐁𝐨𝐓* 〙 ═
 ╠➥ MAKE GROUP ADMIN 
 ╠➥ TURN ON YOUR DATA
-╠➥ CONTACT : wa.me//+9195676 58937
+╠➥ CONTACT : wa.me//+919567658937
 ║
-║>Request? wa.me//+9195676 58937
+║>Request? wa.me//+919567658937
 ║
 ╠═〘 *𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐓* 〙 ═
 `.trim(), m)
